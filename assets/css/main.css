@@ -1313,7 +1313,7 @@
 		background-color: #313a3d;
 		background-attachment: fixed,						fixed;
 		background-image: url("images/overlay.png"), url("../../images/bg.jpg");
-		background-position: top left,					center center;
+		background-position: top left,					top center;
 		background-repeat: repeat,						none;
 		background-size: auto,						cover;
 	}
